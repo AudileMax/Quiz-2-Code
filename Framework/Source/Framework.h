@@ -19,3 +19,6 @@
 #include "UI/ImGuiManager.h"
 #include "Utility/Utility.h"
 #include "Utility/ShaderProgram.h"
+#include "Utility/BaseComponent.h"
+#include "Utility/Components.h"
+
